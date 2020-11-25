@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\atividades2\exercicio7\bin\Debug\netcoreapp3.1\exercicio7.exe
+C:\Users\winicius\Documents\atividades2\exercicio7\bin\Debug\netcoreapp3.1\exercicio7.deps.json
+C:\Users\winicius\Documents\atividades2\exercicio7\bin\Debug\netcoreapp3.1\exercicio7.runtimeconfig.json
+C:\Users\winicius\Documents\atividades2\exercicio7\bin\Debug\netcoreapp3.1\exercicio7.runtimeconfig.dev.json
+C:\Users\winicius\Documents\atividades2\exercicio7\bin\Debug\netcoreapp3.1\exercicio7.dll
+C:\Users\winicius\Documents\atividades2\exercicio7\bin\Debug\netcoreapp3.1\exercicio7.pdb
+C:\Users\winicius\Documents\atividades2\exercicio7\obj\Debug\netcoreapp3.1\exercicio7.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\atividades2\exercicio7\obj\Debug\netcoreapp3.1\exercicio7.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\atividades2\exercicio7\obj\Debug\netcoreapp3.1\exercicio7.AssemblyInfo.cs
+C:\Users\winicius\Documents\atividades2\exercicio7\obj\Debug\netcoreapp3.1\exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\atividades2\exercicio7\obj\Debug\netcoreapp3.1\exercicio7.dll
+C:\Users\winicius\Documents\atividades2\exercicio7\obj\Debug\netcoreapp3.1\exercicio7.pdb
+C:\Users\winicius\Documents\atividades2\exercicio7\obj\Debug\netcoreapp3.1\exercicio7.genruntimeconfig.cache
