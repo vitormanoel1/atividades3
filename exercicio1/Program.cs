@@ -10,22 +10,18 @@ namespace exercicio1
             //    escrever uma mensagem que diga se ela poderá ou não votar este ano 
             //    (não é necessário considerar o mês em que ela nasceu).
 
-            Console.WriteLine("digite o ano em que voce nasceu: ");
+            Console.WriteLine("Ano de nascimento: ");
             int anoNasc = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("digite o ano atual: ");
-            int anoAtual = int.Parse(Console.ReadLine());
-            if (idade >= 18)
-            {
-                Console.WriteLine("voce pode votar: ");
-            }
-            else
-            {
-                Console.WriteLine("voce nao pode votar ainda: ");
+            int anoAtual = 2020;
+            int idade = anoAtual - anoNasc;
+
+            if(idade >= 18 ){
+                Console.WriteLine("voce pode votar");
+            } else if(idade < 18) {
+                Console.WriteLine("voce nao pode votar");
             }
 
-            int soma = anoAtual - anoNasc;
-            Console.WriteLine("sua idade e: "+ (soma));
         }
     }
 }
